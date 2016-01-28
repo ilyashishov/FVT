@@ -1,0 +1,22 @@
+# IntelliJ IDEA internals:
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# Eclipse internals:
+.settings/
+.project
+.classpath
+.metadata
+
+# Maven internals:
+target/
+
+# NPM internals:
+node/
+node_modules/
+etc/
+build/
+npm-debug.log
+
